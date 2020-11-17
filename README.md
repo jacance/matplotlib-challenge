@@ -32,3 +32,12 @@ Tasks include the following:
 
 
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
+
+Observations:
+
+- Mice treated with Capomulin and Ramicane tend to have significantly lower volume tumors (max 41.5g) compared to mice that were treated with other drugs (50g or more).
+
+- Out of four drug regimens checked, Infubinol is the only drug to have potential outliers.
+
+- At 0.84, there is a strong correlation between mouse weight and the average tumor volume. 
