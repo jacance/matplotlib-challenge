@@ -36,7 +36,7 @@ Tasks include the following:
 
 Observations:
 
-- Mice treated with Capomulin and Ramicane tend to have significantly lower volume tumors (max 41.5g) compared to mice that were treated with other drugs (50g or more).
+- Mice treated with Capomulin and Ramicane tend to have significantly lower volume tumors (max 41.5 mm3) compared to mice that were treated with other drugs (50 mm3 or more).
 
 - Out of four drug regimens checked, Infubinol is the only drug to have potential outliers.
 
